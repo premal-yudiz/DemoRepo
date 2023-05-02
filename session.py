@@ -44,3 +44,5 @@ def delete_email():
     return '<h1>Session deleted!</h1>'
 if __name__ == '__main__':
     app.run()
+
+# git file added
